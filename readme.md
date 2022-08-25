@@ -7,3 +7,5 @@
 - change settings in scrapy settings as per your choice
 - create a database and hostname_table
 - when you have it set up go to etherator folder and run "scrapy crawl etherator_spider" to test the crawler
+
+![Etherator Crawler Overview](etherator_crawler_overview.png)
